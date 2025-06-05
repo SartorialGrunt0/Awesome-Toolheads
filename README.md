@@ -4,7 +4,7 @@ The FDM 3D printer toolhead is the heart of the material extrusion process. It i
 
 This is a list of publically available toolead designs which can built using a combination of 3D printed parts as well as an extruder, hotend, fans, LEDs, and PCBs. There are so many different options available for a huge variety of printers. The list will focus solely on community made toolheads for Voron and Printers for Ants.
 
-Looking for an extruder to go with your toolhead of choice? Check out [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders/)
+Looking for an extruder to go with your toolhead of choice? Check out [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders/).
 
 --------------------
 - [A4T](https://github.com/Armchair-Heavy-Industries/A4T)
