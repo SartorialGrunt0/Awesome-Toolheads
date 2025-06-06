@@ -7,22 +7,22 @@ This is a list of publically available toolead designs which can built using a c
 Looking for an extruder to go with your toolhead of choice? Check out [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders/).
 
 --------------------
-- [A4T](https://github.com/Armchair-Heavy-Industries/A4T)
-- [Afterburner](https://github.com/VoronDesign/Voron-Afterburner)
-- [AntHead](https://github.com/PrintersForAnts/AntHead)
-- [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype)
-- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
+- [A4T](https://github.com/Armchair-Heavy-Industries/A4T) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
+- [Afterburner](https://github.com/VoronDesign/Voron-Afterburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork1 extruder.
+- [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
+- [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Lightweight toolhead for Printers for Ants.
+- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox)
-- [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol)
-- [Mini-Afterburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.1)
-- [Mini-Aftersherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa)
-- [Mini-Stealthburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1)
-- [Rapid Burner](https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner)
+- [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
+- [Mini-Afterburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.1) -Toolhead for Voron V0.1.
+- [Mini-Aftersherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) -Toolhead for Voron V0.1, adds support for standalone extruders.
+- [Mini-Stealthburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1) -Toolhead for Voron V0.2.
+- [Rapid Burner](https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner) -Lightweight toolhead for Printers for Ants, variant of Dragonburner, features support for high flow hotends.
 - [Rainbow Dragon](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox)
 - [Spartacus](https://www.printables.com/model/745412-spartacus-the-toolhead)
-- [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
+- [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork2 extruder.
 - [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe)
-- [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
 - [Yavoth](https://github.com/chirpy2605/voron/blob/main/V0/Yavoth)
 
 --------------------
