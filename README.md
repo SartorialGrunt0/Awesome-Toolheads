@@ -10,7 +10,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [A4T](https://github.com/Armchair-Heavy-Industries/A4T) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
 - [Afterburner](https://github.com/VoronDesign/Voron-Afterburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork1 extruder.
 - [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
-- [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Lightweight toolhead for Printers for Ants.
+- [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox)
 - [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
