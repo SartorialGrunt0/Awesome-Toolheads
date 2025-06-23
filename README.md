@@ -12,6 +12,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
+- [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox) -Toolhead for Voron 0, features support for enhanced 5015 fan cooling.
 - [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
 - [Mini-Afterburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.1) -Toolhead for Voron V0.1.
