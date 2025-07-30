@@ -24,6 +24,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [Spartacus](https://www.printables.com/model/745412-spartacus-the-toolhead) -Toolhead for Voron 0, variant of miniAB, features superior modularity.
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork2 extruder.
 - [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, festures CPAP support.
+- [Trinity](https://github.com/WV-design/Trinity-toolhead/) -High performance part cooling toolhead, features 3628 fans and 9mm belt support.
 - [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
 - [Yavoth](https://github.com/chirpy2605/voron/blob/main/V0/Yavoth) -Toolhead for Voron 0 with support for HF and UHF hotends. 
 
