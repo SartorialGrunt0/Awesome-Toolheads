@@ -11,6 +11,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [Afterburner](https://github.com/VoronDesign/Voron-Afterburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork1 extruder.
 - [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
+- [Calamity](https://github.com/lukeslaboratory/Calamity-Toolhead) -Toolhead for Voron 2.4 and Trident.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
 - [Fibre Steam](https://github.com/tristanmcpherson/fibresteam_wiki/tree/main) -Toolhead for Monolith gantry.
 - [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
@@ -22,6 +23,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [Mini-Stealthdort](https://www.printables.com/model/252586-mini-stealthdort) -Toolhead for Voron V0, features support for standalone extruders.
 - [Rapid Burner](https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner) -Lightweight toolhead for Printers for Ants, variant of Dragonburner, features support for high flow hotends.
 - [Rainbow Dragon](https://github.com/chirpy2605/voron/tree/main/V0/Rainbow_Dragon) -Lightweight toolhead for Printers for Ants, features support for dual filament paths.
+- [Reaper](https://github.com/APDMachine/Reaper) -Toolhead for Voron 2.4 and Trident, variant of Mantis.
 - [Spartacus](https://www.printables.com/model/745412-spartacus-the-toolhead) -Toolhead for Voron 0, variant of miniAB, features superior modularity.
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork2 extruder.
 - [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, festures CPAP support.
