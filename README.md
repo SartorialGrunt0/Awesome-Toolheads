@@ -21,6 +21,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 - [Mini-Aftersherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) -Toolhead for Voron V0.1, adds support for standalone extruders.
 - [Mini-Stealthburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1) -Toolhead for Voron V0.2.
 - [Mini-Stealthdort](https://www.printables.com/model/252586-mini-stealthdort) -Toolhead for Voron V0, features support for standalone extruders.
+- [Omniburner](https://www.printables.com/model/854317-omniburner-universial-mini-stealthburner-for-most) -Toolhead for Voron V0.2, features support for standalone extruders.
 - [Rapid Burner](https://github.com/chirpy2605/voron/tree/main/V0/Rapid_Burner) -Lightweight toolhead for Printers for Ants, variant of Dragonburner, features support for high flow hotends.
 - [Rainbow Dragon](https://github.com/chirpy2605/voron/tree/main/V0/Rainbow_Dragon) -Lightweight toolhead for Printers for Ants, features support for dual filament paths.
 - [Reaper](https://github.com/APDMachine/Reaper) -Toolhead for Voron 2.4 and Trident, variant of Mantis.
