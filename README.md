@@ -11,7 +11,8 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 Is there so many options you have developed choice paralyis? Here is the community favorites.
 
 - The full size: [A4T](https://github.com/Armchair-Heavy-Industries/A4T) is the community pick for the Voron 2.4 and Trident. Its light, has strong cooling with dual 4010 blowers, accepts basically any standalone extruder, hotend, and probe, and is easy to adapt for multicolor. 
-- The micro-king: [AntHead](https://github.com/PrintersForAnts/AntHead) is the go-to option for Printers for Ants. With its streamlined design, solid 4010 cooling, support for filament cutters, and a wide variety of support for extruders, probes, and hotends its a popular choice. It even features a full build manual!
+
+- The micro-king: [AntHead](https://github.com/PrintersForAnts/AntHead) Anthead is the go-to option for Printers for Ants. With its streamlined design, solid 4010 cooling, support for filament cutters, and a wide variety of support for extruders, probes, and hotends its no wonder its popular choice. It even features a full build manual!
 
 --------------------
 ### Toolheads
