@@ -8,7 +8,7 @@ Looking for an extruder to go with your toolhead of choice? Check out [Awesome-E
 
 --------------------
 ### Community Picks
-Is there so many options you have developed choice paralyis? Here is the community favorites.
+Is there so many options you have developed choice paralysis? Here is the community favorites.
 
 - The full size: [A4T](https://github.com/Armchair-Heavy-Industries/A4T) is the community pick for the Voron 2.4 and Trident. Its light, has strong cooling with dual 4010 blowers, accepts basically any combination of extruder, hotend, and probe, and is easy to adapt for multicolor. 
 
