@@ -5,6 +5,12 @@ The FDM 3D printer toolhead is the heart of the material extrusion process. It i
 This is a list of publically available toolead designs which can built using a combination of 3D printed parts as well as an extruder, hotend, fans, LEDs, and PCBs. There are so many different options available for a huge variety of printers. The list will focus solely on community made toolheads for Voron and Printers for Ants.
 
 Looking for an extruder to go with your toolhead of choice? Check out [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders/).
+--------------------
+#Community Picks
+There is so many options you have developed choice paralyis? Here is the community favorites.
+
+- The full size all-rounder: [A4T](https://github.com/Armchair-Heavy-Industries/A4T) is the community pick for the Voron 2.4 and Trident. Its light, has strong cooling with dual 4010 blowers, accepts basically any standalone extruder, hotend, and probe, and is easy to adapt for multicolor. 
+- The micro-king: [AntHead](https://github.com/PrintersForAnts/AntHead) is the go-to option for Printers for Ants. With its streamlined design, solid 4010 cooling, and a wide variety of support for extruders, probes, and hotends its a popular choice.
 
 --------------------
 - [A4T](https://github.com/Armchair-Heavy-Industries/A4T) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
