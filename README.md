@@ -20,8 +20,8 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [Afterburner](https://github.com/VoronDesign/Voron-Afterburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork1 extruder.
 - [Angry](https://github.com/Shamoon78/Angry_Tool_Head) -Toolhead for Monolith gantry.
 - [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
-- [Banantis](https://github.com/jakub874/Banantis) -Toolhead for Monolith gantry, variant of Mantis.
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
+- [Banantis](https://github.com/jakub874/Banantis) -Toolhead for Monolith gantry, variant of Mantis.
 - [Calamity](https://github.com/lukeslaboratory/Calamity-Toolhead) -Toolhead for Voron 2.4 and Trident.
 - [DK's Monolith](https://github.com/Kizime123/DKs-Monolith-Toolhead) - Toolhead for Monolith gantry.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
