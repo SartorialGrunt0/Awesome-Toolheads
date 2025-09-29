@@ -18,14 +18,20 @@ Is there so many options you have developed choice paralysis? Here is the commun
 ### Toolheads
 - [A4T](https://github.com/Armchair-Heavy-Industries/A4T) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
 - [Afterburner](https://github.com/VoronDesign/Voron-Afterburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork1 extruder.
+- [Angry](https://github.com/Shamoon78/Angry_Tool_Head) -Toolhead for Monolith gantry.
 - [AntHead](https://github.com/PrintersForAnts/AntHead) -Lightweight toolhead for Printers for Ants.
+- [Banantis](https://github.com/jakub874/Banantis) -Toolhead for Monolith gantry, variant of Mantis.
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
 - [Calamity](https://github.com/lukeslaboratory/Calamity-Toolhead) -Toolhead for Voron 2.4 and Trident.
+- [DK's Monolith](https://github.com/Kizime123/DKs-Monolith-Toolhead) - Toolhead for Monolith gantry.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
 - [Fibre Steam](https://github.com/tristanmcpherson/fibresteam_wiki/tree/main) -Toolhead for Monolith gantry.
+- [Fibre Stream)(https://www.printables.com/model/1219174-fiberstream-toolhead) -Toolhead for Monolith gantry, variant of Fibre Steam with QOL improvements.
+- [Gustav](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead) -Toolhead for Monolith gantr, features support for CPAP, UHF hotends, and beacon probe.
 - [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox) -Toolhead for Voron 0, features support for enhanced 5015 fan cooling.
 - [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
+- [Micro Saul2](https://www.printables.com/model/524765-micro-saul2) -Toolhead for Voron V0.2, features support for dual 4010 fans and the mellow NF crazy hotend.
 - [Mini-Afterburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.1) -Toolhead for Voron V0.1.
 - [Mini-Aftersherpa](https://github.com/PrintersForAnts/Mini-AfterSherpa) -Toolhead for Voron V0.1, adds support for standalone extruders.
 - [Mini-Stealthburner](https://github.com/VoronDesign/Voron-0/tree/Voron0.2r1) -Toolhead for Voron V0.2.
@@ -38,8 +44,11 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [Spartacus](https://www.printables.com/model/745412-spartacus-the-toolhead) -Toolhead for Voron 0, variant of miniAB, features superior modularity.
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork2 extruder.
 - [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, festures CPAP support.
+- [Stormbreaker](https://github.com/Gr33n5murf/Stormbreaker-Toolhead) -Toolhead for Monolith gantry.
+- [Takeoff](https://github.com/Kizime123/Takeoff-Toolhead) -Toolhead for Voron 2.4 and Trident, feaures an SLM design and large 3628 fans.
 - [The Yokai](https://www.printables.com/model/1149273-toolhead-the-yokai) -Toolhead for Voron 2.4 and Trident, features ultralighweight design and CPAP.
 - [Trinity](https://github.com/WV-design/Trinity-toolhead/) -High performance part cooling toolhead, features 3628 fans and 9mm belt support.
+- [UAP](https://www.printables.com/model/1353685-uap-v6) -Toolhead for Monolith gantry.
 - [V4](https://www.printables.com/model/1133951-v4-toolhead-ideal-for-mmu-for-sv08-and-any-voron-g) -Toolhead for Voron 2.4, Trident, and Sovol SV08, features MMU support.
 - [V5](https://www.printables.com/model/1285962-v5-toolhead-orbiter-v225-bambulab-edition-for-sv08) -Toolhead for Voron 2.4, Trident, and Sovol SV08, features MMU support.
 - [Xenomorph](https://www.printables.com/model/1002270-xenomorph-toolhead-for-sovol-sv08) -Toolhead for Sovol SV08 (2.4 Clone).
