@@ -26,7 +26,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [DK's Monolith](https://github.com/Kizime123/DKs-Monolith-Toolhead) - Toolhead for Monolith gantry.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
 - [Fibre Steam](https://github.com/tristanmcpherson/fibresteam_wiki/tree/main) -Toolhead for Monolith gantry.
-- [Fibre Stream)(https://www.printables.com/model/1219174-fiberstream-toolhead) -Toolhead for Monolith gantry, variant of Fibre Steam with QOL improvements.
+- [Fibre Stream](https://www.printables.com/model/1219174-fiberstream-toolhead) -Toolhead for Monolith gantry, variant of Fibre Steam with QOL improvements.
 - [Gustav](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead) -Toolhead for Monolith gantr, features support for CPAP, UHF hotends, and beacon probe.
 - [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox) -Toolhead for Voron 0, features support for enhanced 5015 fan cooling.
