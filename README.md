@@ -2,7 +2,7 @@
 
 The FDM 3D printer toolhead is the heart of the material extrusion process. It is responsible for extruding, heating, depositing, and cooling the filament. 
 
-This is a list of publically available toolead designs which can built using a combination of 3D printed parts as well as an extruder, hotend, fans, LEDs, and PCBs. There are so many different options available for a huge variety of printers. The list will focus solely on community made toolheads for Voron and Printers for Ants.
+This is a list of publically available toolhead designs which can built using a combination of 3D printed parts as well as an extruder, hotend, fans, LEDs, and PCBs. There are so many different options available for a huge variety of printers. The list will focus solely on community made toolheads for Voron and Printers for Ants.
 
 Looking for an extruder to go with your toolhead of choice? Check out [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders/).
 
@@ -43,7 +43,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [Rx](https://github.com/raidycv/rx-toolhead-) -Toolhead for Voron 2.4 and Trident, based on Bambulab A1 toolhead, features A1/H2 motor, gears, and hotend, CPAP cooling.
 - [Spartacus](https://www.printables.com/model/745412-spartacus-the-toolhead) -Toolhead for Voron 0, variant of miniAB, features superior modularity.
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) -Toolhead for Voron 2.4 R1 and Trident, designed for Clockwork2 extruder.
-- [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, festures CPAP support.
+- [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, features CPAP support.
 - [Stormbreaker](https://github.com/Gr33n5murf/Stormbreaker-Toolhead) -Toolhead for Monolith gantry.
 - [Takeoff](https://github.com/Kizime123/Takeoff-Toolhead) -Toolhead for Voron 2.4 and Trident, feaures an SLM design and large 3628 fans.
 - [The Yokai](https://www.printables.com/model/1149273-toolhead-the-yokai) -Toolhead for Voron 2.4 and Trident, features ultralighweight design and CPAP.
