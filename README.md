@@ -48,7 +48,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [StovePipe](https://github.com/chirpy2605/voron/blob/main/V0/StovePipe) -Toolhead for Voron 0, features CPAP support.
 - [Stormbreaker](https://github.com/Gr33n5murf/Stormbreaker-Toolhead) -Toolhead for Monolith gantry.
 - [Takeoff](https://github.com/Kizime123/Takeoff-Toolhead) -Toolhead for Voron 2.4 and Trident, feaures an SLM design and large 3628 fans.
-- [The Yokai](https://www.printables.com/model/1149273-toolhead-the-yokai) -Toolhead for Voron 2.4 and Trident, features ultralighweight design and CPAP.
+- [The Yokai](https://www.printables.com/model/1462701-yokai-v35-toolhead) -Toolhead for Voron 2.4 and Trident, features ultralighweight design and CPAP.
 - [Trinity](https://github.com/WV-design/Trinity-toolhead/) -High performance part cooling toolhead, features 3628 fans and 9mm belt support.
 - [UAP](https://www.printables.com/model/1353685-uap-v6) -Toolhead for Monolith gantry.
 - [V4](https://www.printables.com/model/1133951-v4-toolhead-ideal-for-mmu-for-sv08-and-any-voron-g) -Toolhead for Voron 2.4, Trident, and Sovol SV08, features MMU support.
