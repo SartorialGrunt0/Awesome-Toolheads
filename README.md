@@ -29,7 +29,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [EVA](https://main.eva-3d.page) -Modular toolhead for MGN12/15 CoreXY printers, designed for Ratrig.
 - [Fibre Steam](https://github.com/tristanmcpherson/fibresteam_wiki/tree/main) -Toolhead for Monolith gantry.
 - [Fibre Stream](https://www.printables.com/model/1219174-fiberstream-toolhead) -Toolhead for Monolith gantry, variant of Fibre Steam with QOL improvements.
-- [Gustav](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead) -Toolhead for Monolith gantr, features support for CPAP, UHF hotends, and beacon probe.
+- [Gustav](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead) -Toolhead for Monolith gantry, features support for CPAP, UHF hotends, and beacon probe.
 - [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox) -Toolhead for Voron 0, features support for enhanced 5015 fan cooling.
 - [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
