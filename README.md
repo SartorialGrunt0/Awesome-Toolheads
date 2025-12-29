@@ -23,6 +23,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [Archetype](https://github.com/Armchair-Heavy-Industries/Archetype) -Toolhead for Voron 2.4 and Trident, features support for varying fan types.
 - [Banantis](https://github.com/jakub874/Banantis) -Toolhead for Monolith gantry, variant of Mantis.
 - [Calamity](https://github.com/lukeslaboratory/Calamity-Toolhead) -Toolhead for Voron 2.4 and Trident.
+- [Crown Cooler](https://github.com/sneakytreesnake/CrownCooler) -Toolhead for Voron 2.4 and Trident, lightweight toolhead, features support for the Voron XY carriage, CPAP, standaone extruders, and UHF hotends.
 - [DK's Monolith](https://github.com/Kizime123/DKs-Monolith-Toolhead) -Toolhead for Monolith gantry.
 - [Dragon Brick](https://github.com/robwaldhauser/Dragon-Brick) -Toolhead designed for Madmax toolchanger, variant of dragon burner, features a compact size and a front mounted PCB.
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) -Lightweight toolhead for Printers for Ants.
