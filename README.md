@@ -31,6 +31,7 @@ Is there so many options you have developed choice paralysis? Here is the commun
 - [Fibre Steam](https://github.com/tristanmcpherson/fibresteam_wiki/tree/main) -Toolhead for Monolith gantry.
 - [Fibre Stream](https://www.printables.com/model/1219174-fiberstream-toolhead) -Toolhead for Monolith gantry, variant of Fibre Steam with QOL improvements.
 - [Gustav](https://github.com/RCI-Nicket/Gustav-Railway-Toolhead) -Toolhead for Monolith gantry, features support for CPAP, UHF hotends, and beacon probe.
+- [Hypernova](https://hyperdrivedesign.com/products/Hypernova/hypernova_bedsligers/?fbclid=IwZnRzaAPgQOdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeuII9gPX7ME27yqbq4q3VapiAm_48wdiHxz3U14afB-aNvsJdIkawIpPURpA_aem_d2y7BuaqeH0brk5TL3u4fQ) -Toolhead for Switchwire/Enderwire, features a CNC metal plate for ridgidity, support for UHF hotends, and accepts standalone extruders.
 - [Jabberwocky](https://www.fabreeko.com/collections/ldo/products/jabberwocky-toolhead-and-extruder-designed-for-filament-changers) -Toolhead for Voron 2.4 and Trident, features support for filament changers. 
 - [Mailbox](https://github.com/chirpy2605/voron/blob/main/V0/Mailbox) -Toolhead for Voron 0, features support for enhanced 5015 fan cooling.
 - [Mantis](https://github.com/Armchair-Heavy-Industries/Mantis-Xol) -Lightweight toolhead for Voron 2.4 and Trident, accepts standalone extruders.
