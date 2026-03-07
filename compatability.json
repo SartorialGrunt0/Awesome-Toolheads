@@ -1,6 +1,6 @@
 {
   "toolheads": [
-    { "name": "A4T", "extruders": ["Sherpa Mini", "LGX-lite", "Orbiter 2", "unknown"], "probe": "unknown", "hotend": "unknown" },
+    { "name": "A4T", "extruders": ["Sherpa Mini", "LGX-lite", "Orbiter 2", "other"], "probe":["Tap", "Klicky", "Eddie", "Touch"], "hotend": ["Dragon", "Dragon UHF", "Dragon Ace", "NF-Crazy", "Rapido HF", "Rapido UHF", "Revo", "TZ2.0", "Chube"] },
     { "name": "Afterburner", "extruders": ["Afterburner"], "probe": "unknown", "hotend": "unknown" },
     { "name": "Angry", "extruders": ["unknown"], "probe": "unknown", "hotend": "unknown" },
     { "name": "AntHead", "extruders": ["Sherpa Mini", "unknown"], "probe": "unknown", "hotend": "unknown" },
